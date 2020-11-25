@@ -7243,22 +7243,18 @@ Created using IcoMoon - icomoon.io
   }
 }
 
+.bg-dark:hover {
+  background-color: #FFB236!important;
+}
+
 /* Footer */
 /* Social button style */
-.cc-facebook:hover i {
-  color: #3b5998;
+.fa-linkedin:hover {
+  color: #003399;
 }
 
-.cc-twitter:hover i {
-  color: #1da1f2;
-}
-
-.cc-google-plus:hover i {
-  color: #dd4b39;
-}
-
-.cc-instagram:hover i {
-  color: #405de6;
+.fa-github:hover {
+  color: #000000;
 }
 
 /* Credit Style */
